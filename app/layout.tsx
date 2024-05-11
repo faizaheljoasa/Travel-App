@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Travel App",
+  title: "Hilink",
   description: "The Travel App for people to serve destination camping location.",
 };
 
